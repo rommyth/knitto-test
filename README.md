@@ -9,4 +9,4 @@ Stack Used:
 -   Next JS 14
 -   Redux Toolkit
 
-![alt text](https://github.com/rommyth/test-knitto/blob/main/app/images/app__image.png?raw=true)
+![alt text](https://github.com/rommyth/test-knitto/blob/main/src/images/app__image.png?raw=true)
